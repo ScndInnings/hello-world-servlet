@@ -20,3 +20,4 @@ sample
 16-06-2022--> today is THURSDAY
 21-06-2022
 7-25-2022--> Today is Monday in USA - super nice day!
+MONDAY!
