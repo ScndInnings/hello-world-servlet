@@ -21,3 +21,4 @@ sample
 21-06-2022
 7-25-2022--> Today is Monday in USA - super nice day!
 MONDAY!
+30/07/2021 ---> Today is Saturday
